@@ -1,4 +1,17 @@
-# TypeScript DApp Template
+# ERC721 Token Wallet Tutorial for Cartesi
 
-This is a template for TypeScript Cartesi DApps. It uses node to execute the backend application.
-The application entrypoint is the `src/index.ts` file. It is bundled with [esbuild](https://esbuild.github.io), but any bundler can be used.
+This source code shows guides you through creating a basic ERC721 (NFT) wallet for Cartesi dApps using TypeScript.
+
+## Purpose
+- Understand NFT management within Cartesi's 
+- Implement functions for depositing, withdrawing, and transferring ERC721 tokens
+- Learn to track ownership of NFTs in a Cartesi dApp
+
+Perfect for developers interested in NFT functionality in Cartesi applications.
+
+## Key Features
+- ERC721 token ownership tracking
+- NFT deposit handling
+- Withdrawal voucher generation for NFTs
+- Token transfers between accounts
+
